@@ -1,0 +1,9 @@
+{
+  "export":
+  {
+      "repo_name": "data_sources",
+      "target_dir": "C:\\data-sources-master\\data_sources-master\\data_sources-master\\output_path",
+      "git_file_path": "/config/json",
+      "commit_code": "a5b08974fc41f0bfb51b96756d3bf66acef3a766"
+  }
+}
